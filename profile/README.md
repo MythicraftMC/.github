@@ -9,9 +9,6 @@
 <summary><b>Notice for all Mythicraft developers.</b></summary>
 
 ### Hey! Listen up!
-
-<details>
-
 Please follow [Section II of the Mythicraft Staff Policies](https://docs.mythicraft.org/link/2#bkmrk-this-section-mainly-)
 
 Remember; We can suspend your MythiID at any time, and this will theirfor terminate access to all Mythicraft internal applications, websites, and CLI tooling.
